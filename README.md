@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I'm currently learning:
+  - Fullstack Web with TS/JS
+  - DevOps with Docker
+  - AI and Data Analysis with Python
+  - New languages: Rust and Kotlin
+  - CTF and CP
+
 <!--
 **CongLuanTran/CongLuanTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
